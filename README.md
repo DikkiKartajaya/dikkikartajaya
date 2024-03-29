@@ -3,13 +3,13 @@
 <h3 align="center">Indonesia | University of Computer Indonesia | Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc5Nzl3ZGFvcWplbmlvcDE0ajY0bWw3bnU4bWlxYm9ybWwwNWY3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
-- 🔭 I’m currently working on [Web Development](https://github.com/najmaa14/skripsi)
+- 🔭 I’m currently working on [SKRIPSI](https://github.com/najmaa14/skripsi)
   
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Data Mining**
   
-- 💬 Ask me about **Laravel, PHP, Python**
+- 💬 Feel Free to Ask About **Laravel, PHP, Python**
   
-- 📫 How to reach me **yusufdikki1794@gmail.com**
+- 📫 Contact Me **yusufdikki1794@gmail.com**
   
 - ⚡ Fun fact **I'm also goot at fps game**
 
