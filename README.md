@@ -1,4 +1,4 @@
-![MasterHead](https://images5.alphacoders.com/428/428963.png)
+![MasterHead](https://images5.alphacoders.com/428/428151.png)
 <h1 align="center">Hi 👋, I'm Dikki Yusuf Kartajaya</h1>
 <h3 align="center">Indonesia | University of Computer Indonesia | Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc5Nzl3ZGFvcWplbmlvcDE0ajY0bWw3bnU4bWlxYm9ybWwwNWY3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
