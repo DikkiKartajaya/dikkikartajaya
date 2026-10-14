@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm karta</h1>
-<h3 align="center">Master Student of Information Science | Data Scientist | AI/ML Enthusiast</h3>
+<h3 align="center">Master Student of Information Science | Natural Language Processing | Data Scientist | AI/ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc5Nzl3ZGFvcWplbmlvcDE0ajY0bWw3bnU4bWlxYm9ybWwwNWY3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 - 🔭 Currently working on [MultiSinergi](https://github.com/snetos/Multisinergi)
   
-- 🌱 Learning **Machine Learning** and **Data Mining**
+- 🌱 Learning **Natural Language Processing** and **Retrieval Augmented Generation**
   
 - 📫 Reach me at **yusufdikki1794@gmail.com**
 
