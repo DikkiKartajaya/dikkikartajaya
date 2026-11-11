@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm karta</h1>
-<h3 align="center">Master Student of Information Science | Natural Language Processing | Data Scientist | AI/ML Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc5Nzl3ZGFvcWplbmlvcDE0ajY0bWw3bnU4bWlxYm9ybWwwNWY3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+# Hi, I'm Kartajaya 👋
 
-- 🔭 Currently working on [MultiSinergi](https://github.com/snetos/Multisinergi)
-  
-- 🌱 Learning **Natural Language Processing** and **Retrieval Augmented Generation**
-  
-- 📫 Reach me at **yusufdikki1794@gmail.com**
+I'm an Indonesian master's student in Information Science at JAIST, working on natural language processing in the Shirai Lab. My focus is Indonesian NLP, and I enjoy building things, running experiments, and figuring out why models get things wrong.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kartajy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikkiyusuf.k" height="30" width="40" /></a>
+## 🔍 What I'm researching
 
+I'm interested in what happens when a language model has to check a claim and the evidence is incomplete. A good fact-checker doesn't always answer "true" or "false." Sometimes the honest answer is "there isn't enough evidence to decide," and I want models that can recognize that moment and hold back.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikkikartajaya&show_icons=true&locale=en&layout=compact" alt="dikkikartajaya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikkikartajaya&" alt="dikkikartajaya" /></p>
+My ongoing research is on Indonesian fact-checking. I'm building a dataset from TurnBackHoax that pairs claims with evidence that supports or refutes them, and testing BM25 retrieval, retrieval-augmented generation (RAG), and small language models on it. My favorite part is error analysis: tracing how the quality of retrieved evidence shapes a model's verdict.
+
+On the side, I'm exploring mechanistic interpretability with hands-on probing, logit lens, and activation patching experiments.
+
+## 🛠️ Projects
+
+- **[LLM Sentiment Lab](https://github.com/DikkiKartajaya/SummerProject)**: Compares zero-shot, few-shot, and QLoRA fine-tuning of local Llama models on IMDB sentiment, measuring reliability and calibration alongside accuracy.
+- **[Job Posting Detection](https://github.com/DikkiKartajaya/JobPostingDetection)**: A Word2Vec and Keras model that flags fake job postings.
+
+**Tools:** Python · PyTorch · Hugging Face
+
+## 🤝 Let's connect
+
+Away from the keyboard, I'm usually hiking, playing badminton, or brewing coffee. If you're into multilingual NLP, fact-checking, or LLM evaluation, I'd love to chat: [dikkiyusuf1794@gmail.com](mailto:dikkiyusuf1794@gmail.com)
