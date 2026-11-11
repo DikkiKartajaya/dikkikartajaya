@@ -1,22 +1,41 @@
 # Hi, I'm Kartajaya 👋
 
-I'm an Indonesian master's student in Information Science at JAIST, working on natural language processing in the Shirai Lab. My focus is Indonesian NLP, and I enjoy building things, running experiments, and figuring out why models get things wrong.
+**I build, test, and break language models to find out why they get things wrong.**
 
-## 🔍 What I'm researching
+🇮🇩 Indonesian NLP &nbsp;·&nbsp; 🎓 Master's student at JAIST, Shirai Lab &nbsp;·&nbsp; 🔎 Fact-checking & LLM evaluation
 
-I'm interested in what happens when a language model has to check a claim and the evidence is incomplete. A good fact-checker doesn't always answer "true" or "false." Sometimes the honest answer is "there isn't enough evidence to decide," and I want models that can recognize that moment and hold back.
+---
 
-My ongoing research is on Indonesian fact-checking. I'm building a dataset from TurnBackHoax that pairs claims with evidence that supports or refutes them, and testing BM25 retrieval, retrieval-augmented generation (RAG), and small language models on it. My favorite part is error analysis: tracing how the quality of retrieved evidence shapes a model's verdict.
+## 🔍 The question I'm chasing
 
-On the side, I'm exploring mechanistic interpretability with hands-on probing, logit lens, and activation patching experiments.
+> **When the evidence is too weak, can a model admit it and say "I can't decide"?**
+
+Fact-checking isn't always true vs. false. Sometimes the honest answer is *not enough evidence*, and I want models that know when to hold back.
+
+**What I'm working on (ongoing):**
+
+- 📚 **Dataset:** Indonesian claims from TurnBackHoax, paired with evidence that supports or refutes them
+- ⚙️ **Models:** BM25 retrieval, RAG, and small language models
+- 🕵️ **Error analysis:** how retrieval and evidence quality sway a model's verdict
+- 🧠 **Side quest:** mechanistic interpretability with probing, logit lens, and activation patching
 
 ## 🛠️ Projects
 
-- **[LLM Sentiment Lab](https://github.com/DikkiKartajaya/SummerProject)**: Compares zero-shot, few-shot, and QLoRA fine-tuning of local Llama models on IMDB sentiment, measuring reliability and calibration alongside accuracy.
-- **[Job Posting Detection](https://github.com/DikkiKartajaya/JobPostingDetection)**: A Word2Vec and Keras model that flags fake job postings.
+| Project | What it does |
+|---|---|
+| 🎬 [LLM Sentiment Lab](https://github.com/DikkiKartajaya/SummerProject) | Zero-shot vs. few-shot vs. QLoRA on local Llama models, scored on reliability and calibration, not just accuracy |
+| 🕵️ [Job Posting Detection](https://github.com/DikkiKartajaya/JobPostingDetection) | A Word2Vec + Keras model that flags fake job postings |
 
-**Tools:** Python · PyTorch · Hugging Face
+## 🧰 Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 🤝 Let's connect
 
-Away from the keyboard, I'm usually hiking, playing badminton, or brewing coffee. If you're into multilingual NLP, fact-checking, or LLM evaluation, I'd love to chat: [dikkiyusuf1794@gmail.com](mailto:dikkiyusuf1794@gmail.com)
+⛰️ Hiking · 🏸 Badminton · ☕ Brewing coffee. That's me away from the keyboard.
+
+Into **multilingual NLP**, **fact-checking**, or **LLM evaluation**? I'd love to chat!
+
+[![Email](https://img.shields.io/badge/Email-dikkiyusuf1794%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dikkiyusuf1794@gmail.com)
